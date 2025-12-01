@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "PAC-MANISM",
+  "base_artist": "Yabai T-Shirts Yasan",
+  "createdAt": "2025-12-01T05:07:14.920823Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "PAC-MANISM",
+      "artist": "ヤバイTシャツ屋さん",
+      "has_synced": false,
+      "path": "select/pl_01_PAC-MANISM_ヤバイTシャツ屋さん.txt"
+    }
+  ]
+}
